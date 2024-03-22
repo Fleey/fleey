@@ -18,7 +18,7 @@ Latest blog posts
 - 2019-12-06 PHP DOMDocument loadHTML出现乱码的解决方法
 - 2019-07-18 关于微信 redirect_uri 参数错误 10003
 
-[>>> More blog posts](https://blog.fleey.cn/)
+[>>> More blog posts](https://fleey.work/)
 
 ## Statistics
 ![Stats](https://github-readme-stats.vercel.app/api?username=fleey)
